@@ -3,6 +3,9 @@
 2. [Add Two Numbers](./2.Add Two Numbers/Add Two Numbers.md)  
 3. [Longest Substring Without Repeating Characters](./3.Longest Substring Without Repeating Characters/Longest Substring Without Repeating Characters.md)  
 4. [Median of Two Sorted Arrays](./4.Median of Two Sorted Arrays/Median of Two Sorted Arrays.md)
-5. [Longest Palindromic Substring](./5.Longest Palindromic Substring/Longest Palindromic Substring.md)
-
-
+5. [Longest Palindromic Substring](./5.Longest Palindromic Substring/Longest Palindromic Substring.md)   
+6. [ZigZag Conversion](./6.ZigZag Conversion/ZigZag Conversion.md)  
+7. [Reverse Integer](./7.Reverse Integer/Reverse Integer.md)  
+8. [String to Integer (atoi)](./8.String to Integer (atoi)/String to Integer (atoi).md)  
+9. [Palindrome Number](./9.Palindrome Number/Palindrome Number.md)    
+10. [Regular Expression Matching](./10.Regular Expression Matching/Regular Expression Matching.md)  
