@@ -1,0 +1,4 @@
+1   "abcde"                ## "abcde"
+3   "abc" "abcd" "abcdef"  ## "abc"
+2   "ab" "xy"              ## ""
+3   "ab" "ab" "a3"         ## "a"
