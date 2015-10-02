@@ -50,6 +50,11 @@ istream& operator >> (istream& is, vector<T>& v) {
 
     if (cin.peek() == '{') cin.get();
     else return is;
+    while (isspace(cin.peek())) cin.get();
+    if (cin.peek() == '}') {
+        cin.get();
+        return is;
+    }
 
     while (true) {
         cin >> val;
