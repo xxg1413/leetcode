@@ -1,0 +1,4 @@
+"abcdefg"        "cde"       ##  2
+"abc"            "abcd"      ##  -1
+"abc"            "a"         ##  0
+"abc"            "c"         ##  2
