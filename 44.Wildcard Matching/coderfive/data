@@ -1,0 +1,18 @@
+""         ""          ## true
+""         "*****"     ## true
+"aa"       "a"         ## false
+"aa"       "*"         ## true
+"ab"       "?*"        ## true
+"ab"       "c*"        ## false
+"ab"       "*c"        ## false
+"abcdefgh" "a*bc*h"    ## true
+"bbabab"   "**?a*"     ## true
+"aaabbbaabaaaaababaabaaabbabbbbbbbbaabababbabbbaaaaba"
+"a*******b"
+##
+false
+
+"abbabaaabbabbaababbabbbbbabbbabbbabaaaaababababbbabababaabbababaabbbbbbaaaabababbbaabbbbaabbbbababababbaabbaababaabbbababababbbbaaabbbbbabaaaabbababbbbaababaabbababbbbbababbbabaaaaaaaabbbbbaabaaababaaaabb"
+"**aa*****ba*a*bb**aa*ab****a*aaaaaa***a*aaaa**bbabb*b*b**aaaaaaaaa*a********ba*bbb***a*ba*bb*bb**a*b*bb"
+##
+true
