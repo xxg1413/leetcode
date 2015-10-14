@@ -4,10 +4,10 @@
 (Notes: "&hearts;" means you need buy a book from Leetcode)
 
 
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
-|226|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [C++](./algorithms/anagrams/ValidAnagram.cpp)|Easy|
-|225|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[C++](./algorithms/differentWaysToAddParentheses/DifferentWaysToAddParentheses.cpp)|Medium|
+| # | Title |
+|---| ----- |
+|226|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| |Easy|
+|225|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|Medium|
 |224|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[C++](./algorithms/search2DMatrix/search2DMatrix.II.cpp)|Medium|
 |223|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)| [C++](./algorithms/slidingWindowMaximum/SlidingWindowMaximum.cpp)|Hard|
 |222|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)| [C++](./algorithms/productOfArrayExceptSelf/ProductOfArrayExceptSelf.cpp)|Medium|
@@ -182,7 +182,6 @@
 |53|[Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/)| [C++](./algorithms/spiralMatrix/spiralMatrix.cpp)|Medium|
 |52|[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)| [C++](./algorithms/maximumSubArray/maximumSubArray.cpp)|Medium|
 |51|[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)| [C++](./algorithms/nQueens/nQueuens.II.cpp)|Hard|
-|2015-10-10| coderfive arrive there|
 |50|[N-Queens](https://oj.leetcode.com/problems/n-queens/)| [C++](./algorithms/nQueens/nQueuens.cpp)|Hard|
 |49|["Pow(x, n)"](https://oj.leetcode.com/problems/powx-n/)| [C++](./algorithms/pow/pow.cpp)|Medium|
 |48|[Group Anagrams](https://oj.leetcode.com/problems/anagrams/)| [C++](./algorithms/anagrams/GroupAnagrams.cpp)|Medium|
@@ -213,24 +212,23 @@
 |23|[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./algorithms/swapNodesInPairs/swapNodesInPairs.cpp)|Medium|
 |22|[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)| [C++](./algorithms/mergeKSortedLists/mergeKSortedLists.cpp)|Hard|
 |21|[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| [C++](./algorithms/generateParentheses/generateParentheses.cpp)|Medium|
-|20|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)| [C++](./algorithms/validParentheses/validParentheses.cpp)|Easy|
-|19|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./algorithms/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.cpp)|Easy|
-|18|[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| [C++](./algorithms/letterCombinationsOfAPhoneNumber/letterCombinationsOfAPhoneNumber.cpp)|Medium|
-|17|[4Sum](https://oj.leetcode.com/problems/4sum/)| [C++](./algorithms/4Sum/4Sum.cpp)|Medium|
-|16|[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| [C++](./algorithms/3SumClosest/3SumClosest.cpp)|Medium|
-|15|[3Sum](https://oj.leetcode.com/problems/3sum/)| [C++](./algorithms/3Sum/3Sum.cpp)|Medium|
-|14|[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)| [C++](./algorithms/longestCommonPrefix/longestCommonPrefix.cpp)|Easy|
-|13|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)| [C++](./algorithms/romanToInteger/romanToInteger.cpp)|Easy|
-|12|[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)| [C++](./algorithms/integerToRoman/integerToRoman.cpp)|Medium|
-|11|[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)| [C++](./algorithms/containerWithMostWater/containerWithMostWater.cpp)|Medium|
-|10|[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| [C++](./algorithms/regularExpressionMatching/regularExpressionMatching.cpp)|Hard|
-|9|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| [C++](./algorithms/palindromeNumber/palindromeNumber.cpp)|Easy|
-|8|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| [C++](./algorithms/stringToIntegerAtoi/stringToIntegerAtoi.cpp)|Easy|
-|7|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [C++](./algorithms/reverseInteger/reverseInteger.cpp)|Easy|
-|6|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| [C++](./algorithms/zigZagConversion/zigZagConversion.cpp)|Easy|
-|5|[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| [C++](./algorithms/longestPalindromicSubstring/longestPalindromicSubstring.cpp)|Medium|
-|4|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [C++](./algorithms/addTwoNumbers/addTwoNumbers.cpp)|Medium|
-|3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./algorithms/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.cpp)|Medium|
-|2|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| [C++](./algorithms/medianOfTwoSortedArrays/medianOfTwoSortedArrays.cpp)|Hard|
-|2015-10-12| Jimmy xiang just arrive there |
-|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [C++](./algorithms/twoSum/twoSum.cpp)|Medium|
+|20|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)| 
+|19|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| 
+|18|[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| 
+|17|[4Sum](https://oj.leetcode.com/problems/4sum/)| 
+|16|[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)|
+|15|[3Sum](https://oj.leetcode.com/problems/3sum/)| 
+|14|[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)| 
+|13|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)| 
+|12|[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)| 
+|11|[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)| 
+|10|[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| 
+|9|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| 
+|8|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| 
+|7|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| 
+|6|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)|
+|5|[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| 
+|4|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)||Medium|
+|3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)|
+|2|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)|
+|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| 
