@@ -1,4 +1,4 @@
-bool isy(int x) {  
+bool isPalindrome(int x) {  
     int y = 0;  
     int origin = x;
     if (x < 0) return 0;

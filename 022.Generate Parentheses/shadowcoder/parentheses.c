@@ -28,9 +28,9 @@ char** generateParenthesis(int n, int* returnSize)
 	int left = n, right = n;
 	char line[1024] = {0};
 	int lp = 0;
-	char **result = (char **)calloc(sizeof(char *), 81920);
+	char **result = (char **)calloc(sizeof(char *), 8192);
 	int i;
-	for (i = 0; i < 81920; i++) 
+	for (i = 0; i < 8192; i++) 
 		result[i] = (char *)calloc(sizeof(char), n + 1);
 	*returnSize = 0;
 	fun(left, right, line, lp, result, returnSize);
