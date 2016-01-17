@@ -7,6 +7,12 @@ import (
 func lengthOfLongestSubstring(str string) int {
 
 	arr := [256]int{}
+
+	for _, v := range arr {
+
+		arr[byte(v)] = -1
+	}
+
 	start := -1
 	max := 0
 
@@ -30,7 +36,7 @@ func lengthOfLongestSubstring(str string) int {
 
 func main() {
 
-	str := "abcabc1234566"
+	str := "ab"
 	v := lengthOfLongestSubstring(str)
 
 	fmt.Printf("%s\n%d\n", str, v)

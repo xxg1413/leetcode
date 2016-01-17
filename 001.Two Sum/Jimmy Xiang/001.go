@@ -37,7 +37,8 @@ func main() {
 	if result[0] != -1 {
 
 		fmt.Printf("arr[%d]:%d  + arr[%d]:%d  =  %d \n", result[0], arr[result[0]], result[1], arr[result[1]], sum)
-	} else {
+	} 
+	else {
 		fmt.Println("cann't find the numbers")
 	}
 
