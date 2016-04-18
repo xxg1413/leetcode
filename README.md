@@ -1,13 +1,12 @@
 
 ###LeetCode
 
-(Notes: "&hearts;" means you need buy a book from Leetcode)
 
 
-| # | Title |
-|---| ----- |
-|226|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| |Easy|
-|225|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|Medium|
+| # | problem | solution | 
+|---| -----   |
+|226|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| 
+|225|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
 |224|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[C++](./algorithms/search2DMatrix/search2DMatrix.II.cpp)|Medium|
 |223|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)| [C++](./algorithms/slidingWindowMaximum/SlidingWindowMaximum.cpp)|Hard|
 |222|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)| [C++](./algorithms/productOfArrayExceptSelf/ProductOfArrayExceptSelf.cpp)|Medium|
@@ -228,7 +227,7 @@
 |7|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| 
 |6|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)|
 |5|[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| 
-|4|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)||Medium|
+|4|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)|
 |3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)|
 |2|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)|
-|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| 
+|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [C++/C/Python/Go](./001.Two Sum/)
