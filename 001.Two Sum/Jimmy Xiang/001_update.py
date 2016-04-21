@@ -7,8 +7,8 @@ class Solution(object):
         """
         d = {}
         for i in range(len(nums)):
-            if d.get(target - nums[i], None) == None:
+            find = target  - nums[i]
+            if d.get(find, None) == None:
                 d[nums[i]] = i
             else:
-                return (d[target - nums[i] ], i)
-
+                return [d[find], i]
