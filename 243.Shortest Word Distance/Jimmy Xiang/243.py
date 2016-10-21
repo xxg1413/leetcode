@@ -18,6 +18,6 @@ class Solution:
 
 s=Solution()
 a=["a","b","c","d"]
-print s.sortestDistance(a,"c","d")
+print s.sortestDistance(a,"a","d")
 
 
