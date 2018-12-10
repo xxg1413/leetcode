@@ -1,3 +1,5 @@
+package p001
+
 func twoSum(nums []int, target int) []int {
 
 	int_map := make(map[int]int, len(nums))
