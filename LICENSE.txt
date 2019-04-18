@@ -1,4 +1,3 @@
-Author: Zeng Pengwen.
 This license applies to source code and other text files under directories
 'coderfive/' .
 
