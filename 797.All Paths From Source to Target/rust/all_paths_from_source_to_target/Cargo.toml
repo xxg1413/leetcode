@@ -1,0 +1,6 @@
+[package]
+name = "all_paths_from_source_to_target"
+version = "0.1.0"
+authors = ["Jimmy Xiang <xxg1413@gmail.com>"]
+
+[dependencies]
