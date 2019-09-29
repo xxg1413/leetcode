@@ -1,0 +1,6 @@
+[package]
+name = "design_hashmap"
+version = "0.1.0"
+authors = ["Jimmy Xiang <xxg1413@gmail.com>"]
+
+[dependencies]
